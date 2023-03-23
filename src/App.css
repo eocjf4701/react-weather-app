@@ -16,7 +16,13 @@ body {
 }
 
 .weather-box {
+  background-color: skyblue;
   border: 3px solid white;
   padding: 50px;
   border-radius: 30px;
+}
+
+.region-button>button {
+  margin-left: 5px;
+  margin-top: 15px;
 }
