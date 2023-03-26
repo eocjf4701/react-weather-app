@@ -20,6 +20,8 @@ body {
   border: 3px solid white;
   padding: 50px;
   border-radius: 30px;
+  width: 35vh;
+  height: 35vh;
 }
 
 .region-button>button {
